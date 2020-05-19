@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f8f8;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a.remove {
+    color: red; 
+    float: right;
+}
+
+a.clipboard {
+    color: #444;
+    float: right;
+}
